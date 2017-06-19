@@ -29,6 +29,6 @@ The Principal Investigator for StatEngine is [Tyler Garner](https://github.com/g
 ### Outputs
 New libraries will be added throughout the life of the project.  (Names subject to change).
 
-* **Data Watcher**: Abstracts common complexities involved in retrieving data from public safety data sources.
+* [**Spade**](https://github.com/StatEngine/spade): Abstracts common complexities involved in retrieving data from public safety data sources.
 
 * **Schema Library**: A set of re-usable and extensible JSON schemas that model public safety operations.
